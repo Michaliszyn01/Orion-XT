@@ -1,0 +1,6 @@
+faster-whisper
+edge-tts
+numpy
+requests
+scipy
+sounddevice

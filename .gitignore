@@ -1,0 +1,27 @@
+
+# Publication privacy guard
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite*
+*.pem
+*.key
+*.pfx
+*.pyc
+__pycache__/
+.venv/
+node_modules/
+data/
+instance/
+saves/
+logs/
+exports/
+backups/
+world_data/
+.pytest_cache/
+.test-runtime/
+dist/
+build/
+.pytest-publication/
